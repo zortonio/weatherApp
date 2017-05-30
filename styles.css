@@ -1,0 +1,18 @@
+/*CSS RESET*/
+*{
+  padding: 0;
+  margin: 0 auto;
+}
+#localWeather{
+  margin: 20px;
+}
+#submitBtn{
+  padding: 10px 20px;
+}
+#cityName{
+  height: 35px;
+  line-height: 35px;
+}
+#result{
+  margin-left: 20px;
+}
